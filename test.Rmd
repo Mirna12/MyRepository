@@ -1,9 +1,0 @@
-test
-====
-
-```{r, echo=TRUE, cache=TRUE}
-setwd("C:/Users/Mirna/Documents/Github/MyRepository")
-
-data <- read.csv("./repdata-data-activity/activity.csv")
-head(df) 
-```
